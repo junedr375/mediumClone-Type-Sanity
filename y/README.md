@@ -1,5 +1,4 @@
-# Sanity Blogging Content Studio
-
+# Medium Clone Application with Sanity CMS and Next + TypeScript
 Congratulations, you have now installed the Sanity Content Studio, an open source real-time content editing environment connected to the Sanity backend.
 
 Now you can do the following things:
